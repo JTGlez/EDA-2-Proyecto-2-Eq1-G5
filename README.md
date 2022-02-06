@@ -12,4 +12,4 @@ Programa que ilustra por medio de Hilos en Java el problema de los filósofos y 
   
   > Disclaimer: Los créditos de este trabajo pertenecen a todo el equipo escolar que desarrolló este proyecto y no está sujeto a ninguna restricción de reproducción. Considera 
   los lineamientos de tus cursos para evitar tener problemas por plagio de código. ¡Una cosa es tomar elementos de un código y otra presentar el trabajo entero de otra persona 
-  como tuyo! Créditos adicionales a Jose Francisco Sánchez Portillo por su implementación gráfica original.
+  como tuyo! Créditos adicionales a Jose Francisco Sánchez Portillo por su aplicación gráfica original.
