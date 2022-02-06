@@ -2,7 +2,7 @@
 Programa que ilustra por medio de Hilos en Java el problema de los filósofos y propone una solución en consola del mismo empleando monitores de sincronización.
 
 > Este proyecto es parte del curso de Estructura de Datos y Algoritmos II de la Facultad de Ingeniería, UNAM. Implementa una solución al célebre problema de la
-  Cena de los Filósofos propuesto por Edgser Dijkstra por medio de un programa en Java haciendo uso del paradigma de programación concurrente en Java.
+  Cena de los Filósofos propuesto por Edgser Dijkstra por medio de un programa en Java empleado el paradigma de programación concurrente.
   
 > Dentro del repositorio se encuentra la documentación del proyecto y un trabajo de investigación que introduce a los conceptos de concurrencia y paralelismo, así
   como una explicación extensa del programa reimplementado y las métricas de desempeño empleadas para verificar la validez de la solución.
